@@ -15,6 +15,9 @@
 *(You can replace with your exact degree, department, and university name.)*
 
 ---
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/ratanchowdhury360/ratanchowdhury360/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +57,4 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/ratanchowdhury360/ratanchowdhury360/blob/output/github-contribution-grid-snake.svg)
+
