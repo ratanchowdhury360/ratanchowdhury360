@@ -14,9 +14,6 @@
 
 
 
----
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/ratanchowdhury360/ratanchowdhury360/blob/output/github-contribution-grid-snake.svg)
 
 
 
