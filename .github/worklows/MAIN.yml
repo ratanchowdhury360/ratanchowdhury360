@@ -19,6 +19,7 @@ jobs:
           github_user_name: ratanchowdhury360
           outputs: dist/github-contribution-grid-snake.svg
 
+
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
