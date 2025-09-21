@@ -9,8 +9,8 @@
 
 ### 🎓 Education
 - **B.Sc. in Computer Science & Engineering (CSE)**  
-  [Your University Name]  
-  [Start Year] – Present  
+  [Green University of Bangladesh]  
+  [2022] – Present  
 
 *(You can replace with your exact degree, department, and university name.)*
 
