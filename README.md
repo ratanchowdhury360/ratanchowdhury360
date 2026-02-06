@@ -13,10 +13,7 @@
   [Green University of Bangladesh]  
   [2022] – Present  
 
-
-
-
-
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ratanchowdhury360) 
@@ -24,6 +21,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratanchowdhury169@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://my-portfolio-two-nu-97.vercel.app/)
 
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -46,17 +44,22 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 
-
-![](https://streak-stats.demolab.com?user=ratanchowdhury360&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanchowdhury360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-### 🔝 Top Contributed Repo
-
+![Streak Stats](https://streak-stats.demolab.com?user=ratanchowdhury360&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanchowdhury360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 ---
+
+### 🔝 Top Contributed Repo
+*Insert your top contributed repo link here (if needed).*
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ratanchowdhury360&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
