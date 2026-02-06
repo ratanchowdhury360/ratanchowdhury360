@@ -54,7 +54,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-*Insert your top contributed repo link here (if needed).*
+
 
 ---
 
