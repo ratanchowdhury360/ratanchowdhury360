@@ -11,7 +11,7 @@
 ### 🎓 Education
 - **B.Sc. in Computer Science & Engineering (CSE)**  
   [Green University of Bangladesh]  
-  [2022] – Present  
+  [2022] – 2026  
 
 ---
 
