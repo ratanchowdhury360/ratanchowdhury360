@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Ratan Chowdhury</h1>
 
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
+<h3 align="center">Full Stack Web Developer (MERN)(Nextjs) </h3>
+<h3 align="center">Mobile App Developer (React Native) </h3>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ratanchowdhury360&label=Profile%20views&color=0e75b6&style=flat" alt="ratanchowdhury360" /> 
